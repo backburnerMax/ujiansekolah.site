@@ -1,0 +1,1457 @@
+{
+  "meta": {
+    "judul": "Bank Soal Computerized Adaptive Testing (CAT)",
+    "mata_pelajaran": "Dasar Listrik & Instalasi Motor Listrik",
+    "jenjang": "SMK Teknik Ketenagalistrikan",
+    "total_soal": 90,
+    "format": "5 Pilihan Ganda (A, B, C, D, E)",
+    "target_platform": "Moodle Quiz / LMS",
+    "distribusi": {
+      "mudah": 30,
+      "sedang": 30,
+      "sulit": 30
+    }
+  },
+  "soal": [
+    {
+      "id": 1,
+      "nomor": 1,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Berapakah arus listrik yang mengalir pada hambatan 10 Ohm jika diberi tegangan 220 Volt?",
+      "pilihan": {
+        "A": "22 A",
+        "B": "2,2 A",
+        "C": "0,45 A",
+        "D": "220 A",
+        "E": "2200 A"
+      },
+      "jawaban": "A",
+      "hint": "Gunakan Hukum Ohm: I = V / R."
+    },
+    {
+      "id": 2,
+      "nomor": 2,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Satuan internasional untuk mengukur daya listrik aktif adalah...",
+      "pilihan": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Ohm",
+        "D": "Watt",
+        "E": "Farad"
+      },
+      "jawaban": "D",
+      "hint": "Daya aktif diukur dalam Watt, sedangkan Volt untuk tegangan."
+    },
+    {
+      "id": 3,
+      "nomor": 3,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Komponen yang berfungsi untuk membatasi arus dan memutus rangkaian saat terjadi hubung singkat adalah...",
+      "pilihan": {
+        "A": "Sakelar",
+        "B": "MCB",
+        "C": "Kapasitor",
+        "D": "Transformator",
+        "E": "Kontaktor"
+      },
+      "jawaban": "B",
+      "hint": "MCB melindungi instalasi dari arus lebih dan hubung singkat."
+    },
+    {
+      "id": 4,
+      "nomor": 4,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Alat ukur yang digunakan untuk mengetahui nilai tahanan atau hambatan listrik adalah...",
+      "pilihan": {
+        "A": "Voltmeter",
+        "B": "Amperemeter",
+        "C": "Ohmmeter",
+        "D": "Wattmeter",
+        "E": "Tachometer"
+      },
+      "jawaban": "C",
+      "hint": "Ohm adalah satuan hambatan, maka alatnya adalah Ohmmeter."
+    },
+    {
+      "id": 5,
+      "nomor": 5,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Menurut hukum Kirchhoff I, jumlah arus yang masuk ke suatu titik percabangan sama dengan...",
+      "pilihan": {
+        "A": "Nol",
+        "B": "Jumlah arus yang keluar",
+        "C": "Dua kali arus keluar",
+        "D": "Setengah arus keluar",
+        "E": "Tak terhingga"
+      },
+      "jawaban": "B",
+      "hint": "Hukum Kirchhoff I menyatakan I_masuk = I_keluar."
+    },
+    {
+      "id": 6,
+      "nomor": 6,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Bahan yang sangat mudah menghantarkan arus listrik disebut dengan...",
+      "pilihan": {
+        "A": "Isolator",
+        "B": "Semikonduktor",
+        "C": "Konduktor",
+        "D": "Resistor",
+        "E": "Kapasitor"
+      },
+      "jawaban": "C",
+      "hint": "Konduktor memiliki banyak elektron bebas sehingga mudah menghantarkan listrik."
+    },
+    {
+      "id": 7,
+      "nomor": 7,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Warna isolasi kabel tanah menurut PUIL untuk menandakan kabel netral (N) adalah...",
+      "pilihan": {
+        "A": "Merah",
+        "B": "Kuning",
+        "C": "Hitam",
+        "D": "Biru",
+        "E": "Hijau-Kuning"
+      },
+      "jawaban": "D",
+      "hint": "Berdasarkan PUIL standar terbaru, warna biru digunakan untuk Netral."
+    },
+    {
+      "id": 8,
+      "nomor": 8,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Alat yang digunakan untuk mengukur tegangan listrik pada suatu rangkaian adalah...",
+      "pilihan": {
+        "A": "Amperemeter",
+        "B": "Voltmeter",
+        "C": "Ohmmeter",
+        "D": "Frekuensimeter",
+        "E": "Megger"
+      },
+      "jawaban": "B",
+      "hint": "Tegangan diukur dengan Voltmeter yang dipasang paralel."
+    },
+    {
+      "id": 9,
+      "nomor": 9,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Formulasi matematis yang tepat untuk menyatakan Hukum Ohm adalah...",
+      "pilihan": {
+        "A": "P = V x I",
+        "B": "V = I x R",
+        "C": "R = V x I",
+        "D": "I = V x R",
+        "E": "W = P x t"
+      },
+      "jawaban": "B",
+      "hint": "Hukum Ohm menyatakan besar tegangan berbanding lurus dengan arus dan hambatan."
+    },
+    {
+      "id": 10,
+      "nomor": 10,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Tiga buah hambatan masing-masing 4 Ohm dirangkai secara seri. Hambatan totalnya adalah...",
+      "pilihan": {
+        "A": "1,33 Ohm",
+        "B": "4 Ohm",
+        "C": "8 Ohm",
+        "D": "12 Ohm",
+        "E": "16 Ohm"
+      },
+      "jawaban": "D",
+      "hint": "Pada rangkaian seri, R_total = R1 + R2 + R3."
+    },
+    {
+      "id": 11,
+      "nomor": 11,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Jika sebuah lampu bertuliskan 220V/100W, maka 100W menunjukan nilai dari...",
+      "pilihan": {
+        "A": "Tegangan",
+        "B": "Arus",
+        "C": "Hambatan",
+        "D": "Daya listrik",
+        "E": "Energi"
+      },
+      "jawaban": "D",
+      "hint": "W atau Watt adalah satuan dari daya listrik."
+    },
+    {
+      "id": 12,
+      "nomor": 12,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Jenis arus listrik yang arah alirannya selalu berubah-ubah secara periodik dinamakan...",
+      "pilihan": {
+        "A": "Arus searah (DC)",
+        "B": "Arus bolak-balik (AC)",
+        "C": "Arus konstan",
+        "D": "Arus induksi",
+        "E": "Arus statis"
+      },
+      "jawaban": "B",
+      "hint": "AC (Alternating Current) memiliki arah dan nilai yang berubah terhadap waktu."
+    },
+    {
+      "id": 13,
+      "nomor": 13,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Simbol huruf 'I' dalam bidang ketenagalistrikan digunakan untuk melambangkan...",
+      "pilihan": {
+        "A": "Impedansi",
+        "B": "Intensitas",
+        "C": "Arus listrik",
+        "D": "Induktansi",
+        "E": "Isolasi"
+      },
+      "jawaban": "C",
+      "hint": "Huruf I berasal dari kata 'Intensity' yang melambangkan Kuat Arus."
+    },
+    {
+      "id": 14,
+      "nomor": 14,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Baterai dan aki merupakan contoh sumber tegangan listrik jenis...",
+      "pilihan": {
+        "A": "AC",
+        "B": "DC",
+        "C": "3-fasa",
+        "D": "Induksi",
+        "E": "Transformasi"
+      },
+      "jawaban": "B",
+      "hint": "Baterai menghasilkan arus searah atau Direct Current (DC)."
+    },
+    {
+      "id": 15,
+      "nomor": 15,
+      "bagian": "Dasar Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Komponen listrik yang berfungsi menyimpan muatan listrik dalam bentuk medan listrik adalah...",
+      "pilihan": {
+        "A": "Resistor",
+        "B": "Induktor",
+        "C": "Kapasitor",
+        "D": "Dioda",
+        "E": "Transistor"
+      },
+      "jawaban": "C",
+      "hint": "Kapasitor atau kondensator bertugas menyimpan muatan listrik."
+    },
+    {
+      "id": 16,
+      "nomor": 16,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Tiga buah resistor 6 Ohm, 12 Ohm, dan 4 Ohm dirangkai paralel. Hambatan penggantinya adalah...",
+      "pilihan": {
+        "A": "2 Ohm",
+        "B": "4 Ohm",
+        "C": "6 Ohm",
+        "D": "22 Ohm",
+        "E": "12 Ohm"
+      },
+      "jawaban": "A",
+      "hint": "Gunakan rumus 1/Rp = 1/R1 + 1/R2 + 1/R3."
+    },
+    {
+      "id": 17,
+      "nomor": 17,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah setrika listrik 440 Watt dihubungkan ke sumber tegangan 220 Volt. Kuat arus yang mengalir adalah...",
+      "pilihan": {
+        "A": "0,5 A",
+        "B": "1 A",
+        "C": "2 A",
+        "D": "4 A",
+        "E": "5 A"
+      },
+      "jawaban": "C",
+      "hint": "Gunakan rumus daya: I = P / V."
+    },
+    {
+      "id": 18,
+      "nomor": 18,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah motor listrik fasa tunggal memiliki daya 1 HP (746 Watt) dengan efisiensi 80%. Daya masukannya adalah...",
+      "pilihan": {
+        "A": "596,8 Watt",
+        "B": "746 Watt",
+        "C": "932,5 Watt",
+        "D": "1000 Watt",
+        "E": "800 Watt"
+      },
+      "jawaban": "C",
+      "hint": "Daya masukan = Daya keluaran / Efisiensi."
+    },
+    {
+      "id": 19,
+      "nomor": 19,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Kapasitor berukuran 10 microFarad dan 20 microFarad dirangkai paralel. Kapasitas totalnya bernilai...",
+      "pilihan": {
+        "A": "6,67 microFarad",
+        "B": "10 microFarad",
+        "C": "15 microFarad",
+        "D": "30 microFarad",
+        "E": "200 microFarad"
+      },
+      "jawaban": "D",
+      "hint": "Kapasitor paralel dijumlahkan langsung: C_total = C1 + C2."
+    },
+    {
+      "id": 20,
+      "nomor": 20,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah rumah menyalakan 5 lampu masing-masing 20 Watt selama 10 jam sehari. Energi yang dikonsumsi per hari adalah...",
+      "pilihan": {
+        "A": "1 kWh",
+        "B": "2 kWh",
+        "C": "10 kWh",
+        "D": "100 kWh",
+        "E": "5 kWh"
+      },
+      "jawaban": "A",
+      "hint": "Energi = Total Watt x Jam = (5 x 20) x 10 = 1000 Wh = 1 kWh."
+    },
+    {
+      "id": 21,
+      "nomor": 21,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah transformator step-down memiliki kumparan primer 1000 lilitan dan sekunder 200 lilitan. Jika V_primer 220V, V_sekunder adalah...",
+      "pilihan": {
+        "A": "1100 V",
+        "B": "44 V",
+        "C": "22 V",
+        "D": "11 V",
+        "E": "55 V"
+      },
+      "jawaban": "B",
+      "hint": "Gunakan rumus trafo: Vs = (Ns / Np) x Vp."
+    },
+    {
+      "id": 22,
+      "nomor": 22,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Dua buah hambatan identik R jika dirangkai seri menghasilkan 40 Ohm. Jika dipasang paralel hambatannya menjadi...",
+      "pilihan": {
+        "A": "5 Ohm",
+        "B": "10 Ohm",
+        "C": "20 Ohm",
+        "D": "40 Ohm",
+        "E": "80 Ohm"
+      },
+      "jawaban": "B",
+      "hint": "R seri = 2R = 40 maka R=20. R paralel = R/2 = 10 Ohm."
+    },
+    {
+      "id": 23,
+      "nomor": 23,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Berapakah frekuensi suatu sistem listrik jika satu gelombang penuh diselesaikan dalam waktu 0,02 detik?",
+      "pilihan": {
+        "A": "25 Hz",
+        "B": "50 Hz",
+        "C": "60 Hz",
+        "D": "100 Hz",
+        "E": "200 Hz"
+      },
+      "jawaban": "B",
+      "hint": "Frekuensi f = 1 / T = 1 / 0,02 = 50 Hz."
+    },
+    {
+      "id": 24,
+      "nomor": 24,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Nilai impedansi total dari rangkaian seri R=3 Ohm dan X_L=4 Ohm adalah...",
+      "pilihan": {
+        "A": "1 Ohm",
+        "B": "5 Ohm",
+        "C": "7 Ohm",
+        "D": "12 Ohm",
+        "E": "25 Ohm"
+      },
+      "jawaban": "B",
+      "hint": "Z = akar(R^2 + X_L^2) = akar(3^2 + 4^2) = 5 Ohm."
+    },
+    {
+      "id": 25,
+      "nomor": 25,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Penghantar tembaga memiliki hambatan jenis 0,017. Jika panjang kabel 100m dan luas penampang 2mm2, hambatannya adalah...",
+      "pilihan": {
+        "A": "0,85 Ohm",
+        "B": "1,7 Ohm",
+        "C": "0,085 Ohm",
+        "D": "0,17 Ohm",
+        "E": "8,5 Ohm"
+      },
+      "jawaban": "A",
+      "hint": "R = (rho x l) / A = (0,017 x 100) / 2 = 0,85 Ohm."
+    },
+    {
+      "id": 26,
+      "nomor": 26,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Faktor daya (cos phi) didefinisikan sebagai rasio antara...",
+      "pilihan": {
+        "A": "Daya semu dan daya aktif",
+        "B": "Daya aktif dan daya reaktif",
+        "C": "Daya aktif dan daya semu",
+        "D": "Daya reaktif dan daya semu",
+        "E": "Tegangan dan arus"
+      },
+      "jawaban": "C",
+      "hint": "Cos phi = Daya Aktif (W) / Daya Semu (VA)."
+    },
+    {
+      "id": 27,
+      "nomor": 27,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Alat Megger (Megaohmmeter) digunakan pada instalasi listrik untuk menguji kualitas dari...",
+      "pilihan": {
+        "A": "Koneksi pentanahan",
+        "B": "Tahanan isolasi kabel",
+        "C": "Kontinuitas sakelar",
+        "D": "Kapasitas beban",
+        "E": "Drop tegangan"
+      },
+      "jawaban": "B",
+      "hint": "Megger mengukur tahanan isolasi dengan tegangan tinggi searah."
+    },
+    {
+      "id": 28,
+      "nomor": 28,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah beban menyerap daya aktif 800 Watt dan daya semu 1000 VA. Nilai faktor dayanya adalah...",
+      "pilihan": {
+        "A": "0,6",
+        "B": "0,7",
+        "C": "0,8",
+        "D": "0,9",
+        "E": "1,0"
+      },
+      "jawaban": "C",
+      "hint": "Cos phi = P / S = 800 / 1000 = 0,8."
+    },
+    {
+      "id": 29,
+      "nomor": 29,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Pada sistem 3-fasa star (wye), hubungan antara tegangan fasa-ke-fasa (V_L) dan fasa-ke-netral (V_ph) adalah...",
+      "pilihan": {
+        "A": "V_L = V_ph",
+        "B": "V_L = akar(2) x V_ph",
+        "C": "V_L = akar(3) x V_ph",
+        "D": "V_L = V_ph / akar(3)",
+        "E": "V_L = 3 x V_ph"
+      },
+      "jawaban": "C",
+      "hint": "Pada hubungan Star, tegangan line adalah akar 3 kali tegangan fasa."
+    },
+    {
+      "id": 30,
+      "nomor": 30,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Beban induktif murni pada rangkaian AC menyebabkan kondisi arus listrik...",
+      "pilihan": {
+        "A": "Mendahului tegangan (leading)",
+        "B": "Tertinggal dari tegangan (lagging)",
+        "C": "Sefasa dengan tegangan",
+        "D": "Berlawanan fasa sebesar 180 derajat",
+        "E": "Bernilai nol"
+      },
+      "jawaban": "B",
+      "hint": "Sifat induktor menyebabkan arus tertinggal (lagging) terhadap tegangan."
+    },
+    {
+      "id": 31,
+      "nomor": 31,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Beban 3-fasa menyerap daya aktif 5,5 kW pada tegangan 380 V dengan cos phi 0,85. Arus salurannya adalah...",
+      "pilihan": {
+        "A": "8,45 A",
+        "B": "9,83 A",
+        "C": "14,6 A",
+        "D": "17,0 A",
+        "E": "5,5 A"
+      },
+      "jawaban": "B",
+      "hint": "I = P / (akar(3) x V x cos phi) = 5500 / (1,732 x 380 x 0,85) = 9,83 A."
+    },
+    {
+      "id": 32,
+      "nomor": 32,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah pabrik memiliki beban 100 kVA dengan cos phi awal 0,6 lagging. Berapa daya reaktif QC untuk menaikkan cos phi menjadi 1,0?",
+      "pilihan": {
+        "A": "60 kVAR",
+        "B": "80 kVAR",
+        "C": "100 kVAR",
+        "D": "40 kVAR",
+        "E": "50 kVAR"
+      },
+      "jawaban": "B",
+      "hint": "P = S x cos phi = 60 kW. Q = S x sin phi = 80 kVAR. Untuk cos phi 1, Q_akhir=0, maka QC=80 kVAR."
+    },
+    {
+      "id": 33,
+      "nomor": 33,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Kabel sepanjang 200m mengalirkan arus 30A. Tahanan kabel 0,1 Ohm/100m. Berapa besar jatuh tegangan pada kabel?",
+      "pilihan": {
+        "A": "3 V",
+        "B": "6 V",
+        "C": "12 V",
+        "D": "24 V",
+        "E": "60 V"
+      },
+      "jawaban": "C",
+      "hint": "R_total = 2 x 200/100 x 0,1 = 0,4 Ohm (pergi-pulang). V_drop = I x R = 30 x 0,4 = 12 V."
+    },
+    {
+      "id": 34,
+      "nomor": 34,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah motor 3-fasa beroperasi dengan efisiensi 85% dan menghasilkan output daya mekanik 15 kW. Daya semu jika cos phi 0,8 adalah...",
+      "pilihan": {
+        "A": "17,6 kVA",
+        "B": "22,0 kVA",
+        "C": "15,0 kVA",
+        "D": "18,75 kVA",
+        "E": "25,5 kVA"
+      },
+      "jawaban": "B",
+      "hint": "P_in = 15 kW / 0,85 = 17,64 kW. S = P_in / 0,8 = 22,05 kVA."
+    },
+    {
+      "id": 35,
+      "nomor": 35,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Rangkaian RLC seri memiliki R=30 Ohm, X_L=80 Ohm, dan X_C=40 Ohm dihubungkan ke 200V. Daya aktif total rangkaian adalah...",
+      "pilihan": {
+        "A": "400 Watt",
+        "B": "480 Watt",
+        "C": "800 Watt",
+        "D": "1000 Watt",
+        "E": "1200 Watt"
+      },
+      "jawaban": "B",
+      "hint": "Z = akar(30^2 + (80-40)^2) = 50 Ohm. I = 200/50 = 4A. P = I^2 x R = 16 x 30 = 480 Watt."
+    },
+    {
+      "id": 36,
+      "nomor": 36,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Pada pengukuran daya 3-fasa menggunakan metode dua wattmeter, didapatkan W1 = 3000W dan W2 = 1000W. Daya total sistem adalah...",
+      "pilihan": {
+        "A": "2000 W",
+        "B": "4000 W",
+        "C": "3500 W",
+        "D": "1500 W",
+        "E": "5000 W"
+      },
+      "jawaban": "B",
+      "hint": "Daya total pada metode 2 wattmeter adalah penjumlahan keduanya: P = W1 + W2 = 4000 W."
+    },
+    {
+      "id": 37,
+      "nomor": 37,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah generator sinkron 3-fasa hubungan Star menghasilkan tegangan fasa 220V. Berapakah daya maksimum yang dapat dialirkan jika arus maksimum 50A pada beban resistif murni?",
+      "pilihan": {
+        "A": "11 kW",
+        "B": "22 kW",
+        "C": "33 kW",
+        "D": "38 kW",
+        "E": "57 kW"
+      },
+      "jawaban": "C",
+      "hint": "P = 3 x V_ph x I_ph x cos phi = 3 x 220 x 50 x 1 = 33000 Watt = 33 kW."
+    },
+    {
+      "id": 38,
+      "nomor": 38,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Suatu instalasi industri memiliki drop tegangan maksimum yang diizinkan sebesar 5%. Jika tegangan nominal 380V, berapakah batas tegangan terendah di ujung saluran?",
+      "pilihan": {
+        "A": "370 V",
+        "B": "361 V",
+        "C": "355 V",
+        "D": "342 V",
+        "E": "375 V"
+      },
+      "jawaban": "B",
+      "hint": "Batas bawah = 380 - (5% x 380) = 380 - 19 = 361 V."
+    },
+    {
+      "id": 39,
+      "nomor": 39,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Inti besi sebuah transformator dilaminasi tipis dengan tujuan utama untuk mengurangi rugi daya akibat...",
+      "pilihan": {
+        "A": "Arus eddy (eddy current)",
+        "B": "Histeresis",
+        "C": "Tahanan tembaga",
+        "D": "Fluks bocor",
+        "E": "Efek kulit (skin effect)"
+      },
+      "jawaban": "A",
+      "hint": "Laminasi pada inti besi meningkatkan tahanan jalur arus pusar/eddy sehingga menekan rugi daya."
+    },
+    {
+      "id": 40,
+      "nomor": 40,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah kumparan memiliki induktansi 0,1 H dihubungkan pada frekuensi 50 Hz. Berapakah nilai reaktansi induktifnya?",
+      "pilihan": {
+        "A": "3,14 Ohm",
+        "B": "31,4 Ohm",
+        "C": "314 Ohm",
+        "D": "0,314 Ohm",
+        "E": "62,8 Ohm"
+      },
+      "jawaban": "B",
+      "hint": "X_L = 2 x pi x f x L = 2 x 3,14 x 50 x 0,1 = 31,4 Ohm."
+    },
+    {
+      "id": 41,
+      "nomor": 41,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Bila frekuensi suplai AC diturunkan menjadi setengahnya pada rangkaian yang dominan induktif, maka arus akan...",
+      "pilihan": {
+        "A": "Menjadi setengah semula",
+        "B": "Menjadi dua kali lipat",
+        "C": "Tetap sama",
+        "D": "Menjadi seperempat semula",
+        "E": "Menjadi empat kali lipat"
+      },
+      "jawaban": "B",
+      "hint": "X_L berbanding lurus dengan f. Jika f turun setengah, X_L turun setengah, sehingga arus I = V/X_L naik 2 kali lipat."
+    },
+    {
+      "id": 42,
+      "nomor": 42,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah sistem kelistrikan memiliki nilai gelombang tegangan maksimum 311 Volt. Tegangan efektif (RMS) yang terbaca oleh alat ukur sebesar...",
+      "pilihan": {
+        "A": "110 V",
+        "B": "220 V",
+        "C": "311 V",
+        "D": "380 V",
+        "E": "440 V"
+      },
+      "jawaban": "B",
+      "hint": "V_rms = V_max / akar(2) = 311 / 1,414 = 220 Volt."
+    },
+    {
+      "id": 43,
+      "nomor": 43,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Suatu beban 1 fasa menarik arus 10A pada tegangan 220V dengan sudut fasa tertinggal 60 derajat. Daya aktif beban adalah...",
+      "pilihan": {
+        "A": "1100 Watt",
+        "B": "2200 Watt",
+        "C": "1905 Watt",
+        "D": "550 Watt",
+        "E": "880 Watt"
+      },
+      "jawaban": "A",
+      "hint": "P = V x I x cos(60) = 220 x 10 x 0,5 = 1100 Watt."
+    },
+    {
+      "id": 44,
+      "nomor": 44,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah kapasitor dipasang paralel pada beban motor industri bertujuan untuk...",
+      "pilihan": {
+        "A": "Menurunkan arus start",
+        "B": "Menaikkan efisiensi mekanik motor",
+        "C": "Memperbaiki faktor daya instalasi",
+        "D": "Meningkatkan kecepatan motor",
+        "E": "Membatasi jatuh tegangan fasa"
+      },
+      "jawaban": "C",
+      "hint": "Kapasitor mensuplai daya reaktif kapasitif untuk mengompensasi beban induktif (memperbaiki cos phi)."
+    },
+    {
+      "id": 45,
+      "nomor": 45,
+      "bagian": "Dasar Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Rangkaian resonansi seri terjadi ketika komponen reaktansi induktif (XL) dan reaktansi kapasitif (XC) memenuhi syarat...",
+      "pilihan": {
+        "A": "XL > XC",
+        "B": "XL < XC",
+        "C": "XL = XC",
+        "D": "XL = 0",
+        "E": "XC = 0"
+      },
+      "jawaban": "C",
+      "hint": "Resonansi dicapai saat XL sama dengan XC sehingga impedansi bernilai minimum dan murni resistif."
+    },
+    {
+      "id": 46,
+      "nomor": 46,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Komponen kendali motor listrik yang berfungsi sebagai pengaman terhadap beban lebih berbasis panas adalah...",
+      "pilihan": {
+        "A": "MCB",
+        "B": "TOR (Thermal Overload Relay)",
+        "C": "Magnetic Contactor",
+        "D": "Push Button NC",
+        "E": "NFB"
+      },
+      "jawaban": "B",
+      "hint": "TOR mengamankan motor dari beban lebih berdasarkan panas bimetal."
+    },
+    {
+      "id": 47,
+      "nomor": 47,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Alat kendali mekanis berupa tombol yang akan kembali ke posisi semula setelah dilepas dinamakan...",
+      "pilihan": {
+        "A": "Sakelar toggle",
+        "B": "Push button",
+        "C": "Cam switch",
+        "D": "Limit switch",
+        "E": "Time Delay Relay"
+      },
+      "jawaban": "B",
+      "hint": "Push button bekerja sesaat (momentary) dan kembali ke posisi semula karena pegas."
+    },
+    {
+      "id": 48,
+      "nomor": 48,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Bagian dari kontaktor magnet yang berfungsi sebagai penarik kontak-kontak mekanis ketika dialiri listrik adalah...",
+      "pilihan": {
+        "A": "Kontak utama",
+        "B": "Kontak bantu",
+        "C": "Kumparan/Coil",
+        "D": "Inti besi tetap",
+        "E": "Pegas pengembali"
+      },
+      "jawaban": "C",
+      "hint": "Coil yang dialiri listrik menimbulkan medan magnet untuk menarik jangkar kontak."
+    },
+    {
+      "id": 49,
+      "nomor": 49,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Motor listrik yang bekerja berdasarkan prinsip induksi medan magnet berputar pada stator adalah...",
+      "pilihan": {
+        "A": "Motor DC seri",
+        "B": "Motor universal",
+        "C": "Motor induksi AC",
+        "D": "Motor stepper",
+        "E": "Motor servo"
+      },
+      "jawaban": "C",
+      "hint": "Motor induksi AC memanfaatkan medan putar stator untuk menginduksi rotor."
+    },
+    {
+      "id": 50,
+      "nomor": 50,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Simbol kontak bantu kontaktor magnet yang dalam keadaan normal sebelum bekerja bernilai terbuka disebut...",
+      "pilihan": {
+        "A": "NC (Normally Closed)",
+        "B": "NO (Normally Open)",
+        "C": "COM (Common)",
+        "D": "Overload",
+        "E": "Timer"
+      },
+      "jawaban": "B",
+      "hint": "NO atau Normally Open berarti terbuka saat tidak bertegangan."
+    },
+    {
+      "id": 51,
+      "nomor": 51,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Alat yang digunakan untuk membalik arah putaran motor listrik 3-fasa secara manual tanpa kontaktor adalah...",
+      "pilihan": {
+        "A": "Push Button",
+        "B": "Thermal Overload",
+        "C": "Drum Switch / Cam Switch",
+        "D": "MCB",
+        "E": "Kapasitor running"
+      },
+      "jawaban": "C",
+      "hint": "Drum/Cam switch tipe khusus dirancang untuk mengubah urutan fasa secara manual."
+    },
+    {
+      "id": 52,
+      "nomor": 52,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Jumlah terminal keluaran kumparan pada kotak terminal motor induksi 3-fasa standar yang siap dihubungkan star/delta adalah...",
+      "pilihan": {
+        "A": "3 terminal",
+        "B": "4 terminal",
+        "C": "6 terminal",
+        "D": "9 terminal",
+        "E": "12 terminal"
+      },
+      "jawaban": "C",
+      "hint": "Ada 6 terminal utama yang merepresentasikan ujung-ujung dari 3 kumparan (U1, V1, W1, U2, V2, W2)."
+    },
+    {
+      "id": 53,
+      "nomor": 53,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Komponen penunda waktu otomatis yang digunakan pada perpindahan rangkaian Star ke Delta adalah...",
+      "pilihan": {
+        "A": "TOR",
+        "B": "MCB",
+        "C": "TDR (Time Delay Relay)",
+        "D": "Push Button",
+        "E": "Limit Switch"
+      },
+      "jawaban": "C",
+      "hint": "TDR atau Timer berfungsi mengatur perpindahan waktu otomatis antar kontaktor."
+    },
+    {
+      "id": 54,
+      "nomor": 54,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Jenis motor listrik fasa tunggal yang memanfaatkan kapasitor hanya pada saat awal start dinamakan...",
+      "pilihan": {
+        "A": "Motor kapasitor start",
+        "B": "Motor kapasitor run",
+        "C": "Motor shaded pole",
+        "D": "Motor universal",
+        "E": "Motor sinkron"
+      },
+      "jawaban": "A",
+      "hint": "Motor jenis ini memutuskan sakelar sentrifugal setelah motor berputar mencapai 75% kecepatan."
+    },
+    {
+      "id": 55,
+      "nomor": 55,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Komponen kendali yang mendeteksi batas gerakan mekanis suatu benda pada mesin industri adalah...",
+      "pilihan": {
+        "A": "Proximity switch",
+        "B": "Limit switch",
+        "C": "Float switch",
+        "D": "Pressure switch",
+        "E": "Thermostat"
+      },
+      "jawaban": "B",
+      "hint": "Limit switch memutus/menghubungkan arus berdasarkan sentuhan fisik batas gerakan mekanis."
+    },
+    {
+      "id": 56,
+      "nomor": 56,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Tujuan utama dipasangnya lampu indikator warna merah pada panel kendali motor biasanya untuk menandakan...",
+      "pilihan": {
+        "A": "Motor sedang beroperasi normal",
+        "B": "Sistem mengalami trip/gangguan",
+        "C": "Tegangan masuk siap",
+        "D": "Motor dalam posisi berhenti",
+        "E": "Rangkaian masuk mode Delta"
+      },
+      "jawaban": "B",
+      "hint": "Secara konvensi panel, warna merah/kuning sering dipakai sebagai indikator trip atau alarm bahaya."
+    },
+    {
+      "id": 57,
+      "nomor": 57,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Alat perlindungan motor listrik terhadap kehilangan salah satu fasa pada sistem 3-fasa dinamakan...",
+      "pilihan": {
+        "A": "MCB 3 fasa",
+        "B": "Thermal Overload Relay",
+        "C": "Phase Failure Relay (PFR)",
+        "D": "Under Voltage Relay",
+        "E": "ELCB"
+      },
+      "jawaban": "C",
+      "hint": "PFR mengawasi keseimbangan dan kelengkapan fasa pasokan listrik."
+    },
+    {
+      "id": 58,
+      "nomor": 58,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Jenis pengasutan motor yang menghubungkan motor langsung ke tegangan nominal jala-jala secara penuh disebut...",
+      "pilihan": {
+        "A": "Star-Delta",
+        "B": "Autotransformator",
+        "C": "Soft starter",
+        "D": "Direct On Line (DOL)",
+        "E": "Variable Speed Drive"
+      },
+      "jawaban": "D",
+      "hint": "DOL (Direct On Line) memberikan tegangan penuh langsung saat motor start."
+    },
+    {
+      "id": 59,
+      "nomor": 59,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Untuk mengubah arah putaran motor induksi 3-fasa menjadi berlawanan arah, tindakan yang harus dilakukan adalah...",
+      "pilihan": {
+        "A": "Menukar posisi dua fasa masukan",
+        "B": "Menukar ketiga fasa bersamaan",
+        "C": "Membalik polaritas kabel netral",
+        "D": "Menambah nilai kapasitor",
+        "E": "Menurunkan arus start"
+      },
+      "jawaban": "A",
+      "hint": "Menukar dua fasa (misal R dengan S) akan membalikkan arah medan magnet putar stator."
+    },
+    {
+      "id": 60,
+      "nomor": 60,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "mudah",
+      "pertanyaan": "Papan nama (nameplate) pada motor listrik digunakan untuk mengetahui informasi mengenai...",
+      "pilihan": {
+        "A": "Tanggal pembuatan saja",
+        "B": "Spesifikasi teknis dan rating motor",
+        "C": "Lokasi pemasangan instalasi",
+        "D": "Nama operator mesin",
+        "E": "Harga komponen motor"
+      },
+      "jawaban": "B",
+      "hint": "Nameplate berisi data mutlak seperti tegangan, daya, arus, cos phi, kecepatan, dan sambungan kumparan."
+    },
+    {
+      "id": 61,
+      "nomor": 61,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Pada rangkaian kendali Forward-Reverse, komponen untuk mencegah kedua kontaktor aktif bersamaan adalah...",
+      "pilihan": {
+        "A": "Kontak Interlocking menggunakan NC kontaktor lawan",
+        "B": "Kontak Self-Holding menggunakan NO kontaktor sendiri",
+        "C": "Memasang dua MCB secara seri",
+        "D": "Menggunakan Push Button NO saja",
+        "E": "Menghubungkan paralel koil"
+      },
+      "jawaban": "A",
+      "hint": "Interlocking menggunakan kontak NC lawan mencegah bentrokan arus hubung singkat antar fasa."
+    },
+    {
+      "id": 62,
+      "nomor": 62,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Arus nominal motor 3-fasa adalah 10A. Berapakah setting arus yang tepat pada komponen TOR?",
+      "pilihan": {
+        "A": "5 A",
+        "B": "10 A",
+        "C": "15 A",
+        "D": "20 A",
+        "E": "25 A"
+      },
+      "jawaban": "B",
+      "hint": "Setting TOR disesuaikan mendekati atau sama dengan arus nominal motor (100%-110% dari I_nominal) untuk perlindungan efektif."
+    },
+    {
+      "id": 63,
+      "nomor": 63,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Rangkaian pengunci (self holding) pada kontaktor magnet memanfaatkan kontak bantu yang dipasang paralel dengan...",
+      "pilihan": {
+        "A": "Push Button STOP",
+        "B": "Push Button START",
+        "C": "Koil Kontaktor",
+        "D": "Kontak TOR",
+        "E": "MCB Utama"
+      },
+      "jawaban": "B",
+      "hint": "Kontak NO bantu dipasang paralel dengan PB START agar arus tetap mengalir saat PB dilepas."
+    },
+    {
+      "id": 64,
+      "nomor": 64,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah motor induksi 3-fasa memiliki 4 kutub beroperasi pada frekuensi 50 Hz. Kecepatan sinkron motor tersebut sebesar...",
+      "pilihan": {
+        "A": "750 rpm",
+        "B": "1000 rpm",
+        "C": "1500 rpm",
+        "D": "3000 rpm",
+        "E": "1200 rpm"
+      },
+      "jawaban": "C",
+      "hint": "Ns = (120 x f) / P = (120 x 50) / 4 = 1500 rpm."
+    },
+    {
+      "id": 65,
+      "nomor": 65,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Bila motor 3-fasa tertulis rating tegangan 220V/380V dihubungkan ke jala-jala 3-fasa 380V, maka kumparan motor harus dihubung secara...",
+      "pilihan": {
+        "A": "Star (Bintang)",
+        "B": "Delta (Segitiga)",
+        "C": "Open-Delta",
+        "D": "Seri",
+        "E": "Paralel"
+      },
+      "jawaban": "A",
+      "hint": "Rating 220V/380V artinya tegangan maksimum per kumparan adalah 220V. Pada jala 380V, koneksi Star menuntut tegangan fasa 220V."
+    },
+    {
+      "id": 66,
+      "nomor": 66,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Pada pengasutan Star-Delta, saat posisi Star besarnya arus start motor akan turun menjadi...",
+      "pilihan": {
+        "A": "Sepertiga arus DOL",
+        "B": "Setengah arus DOL",
+        "C": "Dua pertiga arus DOL",
+        "D": "Sama dengan arus DOL",
+        "E": "Seperempat arus DOL"
+      },
+      "jawaban": "A",
+      "hint": "Koneksi Star menurunkan tegangan jala sebesar akar 3, berakibat arus start terpangkas menjadi 1/3 kali arus DOL."
+    },
+    {
+      "id": 67,
+      "nomor": 67,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Lampu indikator overload pada panel kendali motor dihubungkan melalui kontak nomor berapa pada TOR?",
+      "pilihan": {
+        "A": "95 - 96 (NC)",
+        "B": "97 - 98 (NO)",
+        "C": "13 - 14 (NO)",
+        "D": "21 - 22 (NC)",
+        "E": "A1 - A2"
+      },
+      "jawaban": "B",
+      "hint": "Kontak 97-98 adalah kontak NO yang akan menutup (mengalirkan listrik ke lampu alarm) saat TOR trip."
+    },
+    {
+      "id": 68,
+      "nomor": 68,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Komponen elektronik yang digunakan untuk mengatur kecepatan motor induksi AC dengan mengubah nilai frekuensi adalah...",
+      "pilihan": {
+        "A": "Soft Starter",
+        "B": "Thermal Overload",
+        "C": "Inverter / VSD",
+        "D": "Kapasitor Bank",
+        "E": "TDR"
+      },
+      "jawaban": "C",
+      "hint": "VSD (Variable Speed Drive) atau Inverter mengontrol kecepatan dengan mengubah frekuensi dan tegangan."
+    },
+    {
+      "id": 69,
+      "nomor": 69,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Berapakah besar slip pada motor jika kecepatan sinkron stator 1500 rpm dan kecepatan rotor terukur 1440 rpm?",
+      "pilihan": {
+        "A": "2%",
+        "B": "4%",
+        "C": "5%",
+        "D": "6%",
+        "E": "10%"
+      },
+      "jawaban": "B",
+      "hint": "Slip = (Ns - Nr) / Ns = (1500 - 1440) / 1500 = 60 / 1500 = 0,04 atau 4%."
+    },
+    {
+      "id": 70,
+      "nomor": 70,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Mengapa instalasi motor listrik industri diwajibkan memasang sistem grounding (pentanahan) pada bodi motor?",
+      "pilihan": {
+        "A": "Menghemat konsumsi daya aktif",
+        "B": "Mencegah bahaya tegangan sentuh akibat kebocoran arus",
+        "C": "Meningkatkan torsi start motor",
+        "D": "Menjaga kestabilan frekuensi jala",
+        "E": "Mencegah trip pada MCB saat start"
+      },
+      "jawaban": "B",
+      "hint": "Grounding mengalirkan arus bocor bodi langsung ke bumi agar tidak menyengat manusia yang menyentuhnya."
+    },
+    {
+      "id": 71,
+      "nomor": 71,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Pada diagram rangkaian kendali motor DOL, komponen Push Button STOP dipasang secara...",
+      "pilihan": {
+        "A": "Seri terhadap seluruh rangkaian kendali",
+        "B": "Paralel terhadap Push Button START",
+        "C": "Paralel terhadap koil kontaktor",
+        "D": "Seri terhadap kontak utama MCB",
+        "E": "Paralel terhadap kontak bantu NO"
+      },
+      "jawaban": "A",
+      "hint": "PB STOP berjenis NC dipasang seri di awal rangkaian agar dapat memutuskan seluruh aliran arus kendali saat ditekan."
+    },
+    {
+      "id": 72,
+      "nomor": 72,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Perbedaan mendasar antara kontak utama dan kontak bantu pada sebuah kontaktor magnit terletak pada...",
+      "pilihan": {
+        "A": "Bentuk fisiknya saja",
+        "B": "Kapasitas hantar arus (KHA) logam kontaknya",
+        "C": "Tegangan kerja koil penggerak",
+        "D": "Jumlah lubang sekrup terminal",
+        "E": "Bahan isolasi bodi kontaktor"
+      },
+      "jawaban": "B",
+      "hint": "Kontak utama memiliki KHA besar untuk dialiri arus beban motor, sedangkan kontak bantu memiliki KHA kecil khusus arus kendali."
+    },
+    {
+      "id": 73,
+      "nomor": 73,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Fungsi utama dari sakelar sentrifugal pada motor induksi fasa tunggal jenis kapasitor start adalah untuk...",
+      "pilihan": {
+        "A": "Memutus kapasitor start setelah motor berputar mendekati kecepatan penuh",
+        "B": "Membatasi arus start agar tidak memicu trip MCB",
+        "C": "Membalik arah putaran motor secara otomatis",
+        "D": "Melindungi motor dari panas akibat beban lebih",
+        "E": "Mengatur kecepatan motor agar konstan"
+      },
+      "jawaban": "A",
+      "hint": "Sakelar sentrifugal membuka secara mekanis akibat gaya putar untuk melepaskan kumparan bantu beserta kapasitor start."
+    },
+    {
+      "id": 74,
+      "nomor": 74,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Alat ukur yang paling praktis digunakan untuk memantau besaran arus beban total pada kabel motor tanpa memutus kabel adalah...",
+      "pilihan": {
+        "A": "Multitester digital",
+        "B": "Megger meter",
+        "C": "Tang Ampere (Clamp Meter)",
+        "D": "Wattmeter analog",
+        "E": "Tachometer"
+      },
+      "jawaban": "C",
+      "hint": "Clamp meter memanfaatkan prinsip trafo arus dengan menjepitkan rahang alat ukur pada sekeliling inti konduktor."
+    },
+    {
+      "id": 75,
+      "nomor": 75,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sedang",
+      "pertanyaan": "Sebuah motor listrik 3-fasa menarik daya 7,5 kW. Jika dipasang MCB sebagai pengaman cabang tunggal, rating minimal KHA MCB sebesar...",
+      "pilihan": {
+        "A": "2 A",
+        "B": "4 A",
+        "C": "6 A",
+        "D": "16 A",
+        "E": "25 A"
+      },
+      "jawaban": "D",
+      "hint": "Arus nominal I sekitar 15A. Rating pengaman dipilih di atas I nominal motor, maka 16A adalah rating standar terdekat yang aman."
+    },
+    {
+      "id": 76,
+      "nomor": 76,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Saat pengujian Star-Delta otomatis, motor menyala posisi Star namun MCB trip saat pindah ke Delta. Masalahnya adalah...",
+      "pilihan": {
+        "A": "Setting timer terlalu cepat",
+        "B": "Kontak bantu NC Delta rusak terbuka",
+        "C": "Salah pengkabelan kumparan terhubung singkat saat Delta",
+        "D": "Tegangan PLN drop",
+        "E": "Setting arus TOR terlalu rendah"
+      },
+      "jawaban": "C",
+      "hint": "Salah urutan kabel pada grup terminal pengubah (koneksi Delta) memicu hubung singkat fasa ke fasa saat kontaktor Delta aktif."
+    },
+    {
+      "id": 77,
+      "nomor": 77,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Motor induksi 3-fasa mengalami panas berlebih yang tidak wajar setelah beroperasi 15 menit. Hasil pengukuran arus fasa menunjukkan R=12A, S=12A, T=2A. Kondisi ini indikasi...",
+      "pilihan": {
+        "A": "Beban mekanik terlalu berat",
+        "B": "Terjadi kehilangan salah satu fasa (single phasing)",
+        "C": "Tegangan jala-jala terlalu tinggi",
+        "D": "Kapasitor bank meledak",
+        "E": "Rotor mengalami slip total"
+      },
+      "jawaban": "B",
+      "hint": "Arus fasa T drop drastis menandakan hilangnya fasa tersebut akibat putus sikring/kabel, membuat fasa R dan S menanggung beban berat hingga panas."
+    },
+    {
+      "id": 78,
+      "nomor": 78,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Rangkaian kendali motor berurutan otomatis (Sequential) menggunakan 2 kontaktor. Kontaktor 2 tidak bisa aktif sebelum kontaktor 1 bekerja. Logika pemasangannya adalah...",
+      "pilihan": {
+        "A": "Kontak NO kontaktor 1 diseri dengan koil kontaktor 2",
+        "B": "Kontak NC kontaktor 1 diseri dengan koil kontaktor 2",
+        "C": "Kontak NO kontaktor 2 diparalel dengan koil kontaktor 1",
+        "D": "Kedua koil kontaktor dihubungkan secara paralel",
+        "E": "Kontak NO kontaktor 1 diparalel dengan PB START 2"
+      },
+      "jawaban": "A",
+      "hint": "Dengan menseri kontak NO kontaktor 1 ke jalur koil 2, maka koil 2 mustahil mendapat arus sebelum kontaktor 1 menutup kontak NO-nya."
+    },
+    {
+      "id": 79,
+      "nomor": 79,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah motor induksi 3-fasa 4 kutub, f=50Hz, memiliki kecepatan rotor 1440 rpm. Berapakah frekuensi arus yang terjadi pada rotor?",
+      "pilihan": {
+        "A": "2 Hz",
+        "B": "50 Hz",
+        "C": "0 Hz",
+        "D": "48 Hz",
+        "E": "100 Hz"
+      },
+      "jawaban": "A",
+      "hint": "Ns = 1500. Slip s = (1500-1440)/1500 = 0,04. Frekuensi rotor f_r = s x f = 0,04 x 50 = 2 Hz."
+    },
+    {
+      "id": 80,
+      "nomor": 80,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah sistem konveyor industri menggunakan pengereman dinamis (dynamic braking) pada motor AC-nya. Prinsip kerja pengereman ini adalah...",
+      "pilihan": {
+        "A": "Membalik urutan dua fasa secara tiba-tiba",
+        "B": "Menginjeksikan arus searah (DC) ke kumparan stator setelah AC diputus",
+        "C": "Menekan poros motor dengan kampas rem mekanis",
+        "D": "Menghubung singkat seluruh terminal kumparan motor",
+        "E": "Menurunkan frekuensi inverter secara perlahan"
+      },
+      "jawaban": "B",
+      "hint": "Injeksi arus DC menciptakan medan magnet stasioner yang memaksa rotor sangkar langsung berhenti berputar."
+    },
+    {
+      "id": 81,
+      "nomor": 81,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Mengapa pengasutan sistem Star-Delta tidak cocok diterapkan pada motor induksi 3-fasa yang memiliki nameplate rating tegangan 220V (koneksi Delta) / 127V (koneksi Star) pada jaringan PLN 3-fasa 380V?",
+      "pilihan": {
+        "A": "Motor akan berputar terlalu cepat hingga terbakar",
+        "B": "Tegangan kerja kumparan motor akan melebihi batas isolasinya",
+        "C": "Torsi start motor menjadi terlalu besar",
+        "D": "Timer tidak akan mampu memindahkan kontak",
+        "E": "Arus start akan bernilai nol"
+      },
+      "jawaban": "B",
+      "hint": "Motor tersebut hanya boleh menerima tegangan fasa 220V (Delta). Jika diberi jala 380V, kumparan akan mengalami kerusakan isolasi total/terbakar."
+    },
+    {
+      "id": 82,
+      "nomor": 82,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Saat mengecek sebuah panel pompa listrik, ditemukan bahwa kontaktor magnet mengalami suara bergetar keras (humming) saat diaktifkan. Kerusakan komponen internal yang paling mungkin terjadi adalah...",
+      "pilihan": {
+        "A": "Koil terbakar sebagian",
+        "B": "Cincin pembagi fasa (shading coil) pada inti besi retak/putus",
+        "C": "Kontak utama aus dan berkarat",
+        "D": "Pegas pengembali terlalu lembek",
+        "E": "Tegangan kendali terlalu tinggi"
+      },
+      "jawaban": "B",
+      "hint": "Cincin tembaga (shading coil) berfungsi menghasilkan pergeseran fluks magnet agar tarikan konstan. Jika retak/putus, gaya tarik magnet akan berfluktuasi menghasilkan getaran hebat/bising."
+    },
+    {
+      "id": 83,
+      "nomor": 83,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah sistem kendali cerdas menggunakan VSD untuk menggerakkan motor mixer industri. Ketika sistem dijalankan pada frekuensi 25 Hz (setengah dari frekuensi nominal 50 Hz), bagaimanakah kondisi torsi dan kecepatan motor?",
+      "pilihan": {
+        "A": "Kecepatan konstan, torsi turun setengah",
+        "B": "Kecepatan turun setengah, torsi tetap konstan",
+        "C": "Kecepatan dan torsi keduanya turun setengah",
+        "D": "Kecepatan turun setengah, torsi naik dua kali lipat",
+        "E": "Motor berhenti dan terkunci"
+      },
+      "jawaban": "B",
+      "hint": "VSD menjaga rasio V/f konstan. Menurunkan frekuensi menjadi 25 Hz akan menurunkan kecepatan motor setengahnya, namun torsi kerja nominalnya tetap terjaga konstan."
+    },
+    {
+      "id": 84,
+      "nomor": 84,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Pada pengujian tahanan isolasi kumparan motor induksi 3-fasa menggunakan Megger dengan tegangan injeksi 500V DC, nilai minimum tahanan isolasi yang dinyatakan aman menurut standar umum/PUIL adalah...",
+      "pilihan": {
+        "A": "0,5 MegaOhm",
+        "B": "1 MegaOhm",
+        "C": "5 MegaOhm",
+        "D": "10 MegaOhm",
+        "E": "100 MegaOhm"
+      },
+      "jawaban": "A",
+      "hint": "Standar PUIL menetapkan batas minimum tahanan isolasi adalah 1000 Ohm per 1 Volt tegangan kerja, sehingga untuk sistem 220/380V minimal berkisar 0,5 MegaOhm (atau aturan praktis 1 MegaOhm)."
+    },
+    {
+      "id": 85,
+      "nomor": 85,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Dalam instalasi motor listrik industri, manakah kombinasi urutan proteksi dan kontrol yang benar dipasang dari arah sumber daya menuju beban motor?",
+      "pilihan": {
+        "A": "MCB -> Kontaktor -> TOR -> Motor",
+        "B": "MCB -> TOR -> Kontaktor -> Motor",
+        "C": "TOR -> MCB -> Kontaktor -> Motor",
+        "D": "Kontaktor -> MCB -> TOR -> Motor",
+        "E": "MCB -> Motor -> TOR -> Kontaktor"
+      },
+      "jawaban": "A",
+      "hint": "Urutan standar pengkabelan daya: Proteksi hubung singkat (MCB) -> Sakelar magnetis (Kontaktor) -> Proteksi beban lebih (TOR) -> Beban akhir (Motor)."
+    },
+    {
+      "id": 86,
+      "nomor": 86,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Pada sistem pengereman motor jenis Plugging (Pengereman Balik), komponen apakah yang wajib dipasang pada poros motor untuk memutus arus agar motor tidak berputar ke arah sebaliknya saat berhenti?",
+      "pilihan": {
+        "A": "Limit Switch",
+        "B": "Proximity Sensor",
+        "C": "Zero Speed Switch",
+        "D": "Thermal Overload Relay",
+        "E": "Time Delay Relay"
+      },
+      "jawaban": "C",
+      "hint": "Zero Speed Switch mendeteksi putaran poros mendekati nol untuk segera membuka rangkaian kendali kontaktor pengereman sebelum motor berputar balik."
+    },
+    {
+      "id": 87,
+      "nomor": 87,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah motor induksi 3-fasa memiliki nameplate dengan kode kelas isolasi F. Kelas isolasi ini menyatakan bahwa kumparan motor sanggup menahan suhu operasi maksimum sebesar...",
+      "pilihan": {
+        "A": "105 derajat Celcius",
+        "B": "120 derajat Celcius",
+        "C": "130 derajat Celcius",
+        "D": "155 derajat Celcius",
+        "E": "180 derajat Celcius"
+      },
+      "jawaban": "D",
+      "hint": "Kelas isolasi F dirancang untuk ketahanan suhu operasi batas maksimum sebesar 155 derajat Celcius."
+    },
+    {
+      "id": 88,
+      "nomor": 88,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Saat merancang sistem kendali motor untuk keperluan kran angkat (Hoist/Crane), kontak bantu apa yang harus diintegrasikan dengan rem elektromagnetik (Brake) agar rem terlepas tepat saat motor diberi energi?",
+      "pilihan": {
+        "A": "Dipasang paralel terhadap sakelar utama panel",
+        "B": "Dihubungkan melalui kontak NO kontaktor jalan menuju koil rem mekanis",
+        "C": "Dihubungkan lewat kontak NC TOR sebagai indikator utama",
+        "D": "Diseri langsung dengan tombol EMERGENCY STOP",
+        "E": "Dipasang bebas tanpa terikat kontaktor utama"
+      },
+      "jawaban": "B",
+      "hint": "Rem mekanis hoist bertipe spring-applied (mengerem saat mati). Koil rem harus mendapat pasokan listrik (NO menutup) secara simultan bersamaan dengan kontaktor utama motor agar rem terlepas."
+    },
+    {
+      "id": 89,
+      "nomor": 89,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Sebuah pabrik mengalami masalah di mana motor induksi sering terbakar akibat fluktuasi tegangan jala-jala yang sering turun drastis (under voltage). Komponen kendali proteksi tambahan apakah yang paling ideal dipasang pada panel?",
+      "pilihan": {
+        "A": "Over Current Relay",
+        "B": "Under Voltage Relay (UVR) atau Voltage Supervisory Relay",
+        "C": "Lightning Arrester",
+        "D": "Ground Fault Detector",
+        "E": "Kapasitor Bank otomatis"
+      },
+      "jawaban": "B",
+      "hint": "UVR memantau penurunan tegangan di luar batas toleransi dan akan memerintahkan sistem kendali memutus kontaktor utama guna melindungi kumparan motor dari lonjakan arus akibat low voltage."
+    },
+    {
+      "id": 90,
+      "nomor": 90,
+      "bagian": "Instalasi Motor Listrik",
+      "tingkat": "sulit",
+      "pertanyaan": "Bila sebuah motor induksi 3-fasa dijalankan tanpa beban sama sekali (no-load test), berapakah perkiraan nilai faktor daya (cos phi) dari motor tersebut dibandingkan saat diberi beban penuh?",
+      "pilihan": {
+        "A": "Jauh lebih rendah (mendekati 0,1 - 0,2)",
+        "B": "Sama saja (tetap sekitar 0,8)",
+        "C": "Jauh lebih tinggi (mendekati 1,0)",
+        "D": "Bernilai negatif karena bersifat kapasitif",
+        "E": "Bernilai nol murni"
+      },
+      "jawaban": "A",
+      "hint": "Tanpa beban mekanis, motor hanya menyerap arus magnetisasi yang murni bersifat induktif, berakibat pada faktor daya yang sangat rendah (buruk) sebelum dibebani kerja mekanis."
+    }
+  ]
+}
