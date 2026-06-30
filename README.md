@@ -1,4 +1,4 @@
-# Aplikasi Ujian Sekolah (CAT) - Dasar Listrik SMK
+# Aplikasi Ujian Sekolah (CAT)
 
 Aplikasi Ujian Sekolah berbasis Computer Assisted Test (CAT) adaptif yang dirancang untuk mengukur evaluasi hasil belajar siswa pada mata pelajaran Dasar Listrik SMK secara dinamis dan aman.
 
