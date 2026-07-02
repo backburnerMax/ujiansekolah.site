@@ -77,4 +77,5 @@ Buka browser Anda dan akses halaman website di: **`http://localhost:5173`**.
 ---
 
 ## 👤 Pembuat & Kontributor
-* **Ridho kurnia Ramadhan** - *Developer Utama & Peneliti*
+* **Ridho kurnia Ramadhan** - *Developer Utama*
+* **Gita Yulianti** - *Peneliti Tesis*
